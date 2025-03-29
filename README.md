@@ -22,3 +22,9 @@ go mod init dayx
 ```powershell
 go run .
 ```
+
+## Practiced
+
+> 1. Hello World
+> 1. Packages
+> 1. Imports
